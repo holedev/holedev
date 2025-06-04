@@ -15,12 +15,6 @@ src="https://img.shields.io/github/followers/holedev?logo=github&style=for-the-b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=holedev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=holedev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=holedev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=holedev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ![](https://github.com/holedev/holedev/raw/output/dist/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
