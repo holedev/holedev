@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 👨‍💻 I'm a **Software Engineer**
-- 🔭 I'm currently working on **[Journal of Science OU](http://journalofscience.ou.edu.vn/)**
+- 🔭 I'm currently working on **[HCMCOUJS](http://journalofscience.ou.edu.vn/)**
 - 🌱 I'm continuously learning **modern development frameworks and tools**
 - 👯 I'm looking to collaborate on **exciting open-source projects**
 - 💬 Ask me about **web development, software architecture, and engineering practices**
